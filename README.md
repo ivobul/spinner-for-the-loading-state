@@ -8,7 +8,7 @@
 
 
 ### Link to the official site
-- [Advent of CSS 2024](https://store.selfteach.me/advent-of-css-2024)
+- [Advent of CSS 2023](https://store.selfteach.me/advent-of-css-2022)
 
 ### Solution
 - [Live Demo](https://ivobul.github.io/spinner-for-the-loading-state/)
