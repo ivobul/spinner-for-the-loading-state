@@ -2,11 +2,6 @@
   
 ## Challenge #23 - Spinner for the Loading State
 
-### Brief
-- Use CSS only to build an animated spinner.
-- The color should be controlled through CSS. But, default to white.
-
-
 ### Link to the official site
 - [Advent of CSS 2023](https://store.selfteach.me/advent-of-css-2022)
 
